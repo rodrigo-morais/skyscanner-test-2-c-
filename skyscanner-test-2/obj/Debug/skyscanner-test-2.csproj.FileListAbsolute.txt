@@ -1,0 +1,6 @@
+C:\Dados\RMMSoftware\Projetos\Exemplos\Skyscanner_Test\test_2_c#\skyscanner-test-2\bin\Debug\skyscanner-test-2.exe.config
+C:\Dados\RMMSoftware\Projetos\Exemplos\Skyscanner_Test\test_2_c#\skyscanner-test-2\bin\Debug\skyscanner-test-2.exe
+C:\Dados\RMMSoftware\Projetos\Exemplos\Skyscanner_Test\test_2_c#\skyscanner-test-2\bin\Debug\skyscanner-test-2.pdb
+C:\Dados\RMMSoftware\Projetos\Exemplos\Skyscanner_Test\test_2_c#\skyscanner-test-2\obj\Debug\skyscanner-test-2.csprojResolveAssemblyReference.cache
+C:\Dados\RMMSoftware\Projetos\Exemplos\Skyscanner_Test\test_2_c#\skyscanner-test-2\obj\Debug\skyscanner-test-2.exe
+C:\Dados\RMMSoftware\Projetos\Exemplos\Skyscanner_Test\test_2_c#\skyscanner-test-2\obj\Debug\skyscanner-test-2.pdb
